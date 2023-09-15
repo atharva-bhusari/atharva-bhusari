@@ -18,6 +18,10 @@
    - Collaborated on updating ETL workflows and mappings in alignment with business requirements using PowerCenter Designer
    - Efficiently managed and optimized Data Integration Services and Process Chains in SAP, consistently achieving 100% on-time task completion
    - Adhered to Agile methodology and maintained comprehensive documentation using ServiceNow and HP Application Lifecycle Management Tool
+   
+<!-- Publication -->
+📜 **Publication**
+   - (Sherlock: An Ensemble based Deep Learning Framework for Fake News Detection)[http://www.ijcaonline.org/archives/volume176/number22/31333-2020920218]
 
 <!-- Skills -->
 💼 **Skills**:
