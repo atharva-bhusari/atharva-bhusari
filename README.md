@@ -2,13 +2,13 @@
 # 📊 Data Scientist | Machine Learning Enthusiast
 
 <!-- Contact Information -->
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhusari/) | ✉️ Email: [atharva.bhusari@rutgers.edu](mailto:atharva.bhusari@rutgers.edu)
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhusari/) | ✉️ Email: [atharva.bhusari@rutgers.edu](mailto:athrvabhusari99@gmail.com)
 
 <!-- Education -->
 🎓 Master of Science in Data Science | Rutgers University 
 
 <!-- Work Experience -->
-🌟 **Research Assistant** @ Rutgers Institute for Health (New Brunswick, NJ)
+🌟 **Data Science Research Assistant** @ Rutgers Institute for Health (New Brunswick, NJ)
    - Collaborated with a research team to create a Machine Learning pipeline for the classification of over 1000 bio-markers
    - Achieved a 90% improvement in pipeline efficiency through parameter fine-tuning for algorithms such as KNN, SVM, and Random Forest
    - Showcased the development of a Machine Learning pipeline that enhanced the predictive analysis of bio-markers by 80%
