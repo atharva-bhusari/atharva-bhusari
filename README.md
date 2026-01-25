@@ -16,13 +16,13 @@
    - Partnered with functional analysts and business users to perform unit testing, system integration testing (SIT), and user acceptance testing (UAT), resulting in smoother releases and fewer post–go-live issues
    - Supported JD Edwards system integrations and data validation activities, contributing to more reliable reporting and visibility
 
-🩺 **AI/Backend Engineer** Curanostics
+🩺 **AI/Backend Engineer** @ Curanostics
    - Built and refined ETL pipelines to extract and transform unstructured EPIC EHR data into structured JSON formats, supporting downstream analytics and model development with high data accuracy
    - Assisted in implementing HIPAA-compliant data processing workflows, ensuring secure handling of PHI and adherence to healthcare regulatory standards
    - Developed and optimized RESTful APIs using FastAPI and PostgreSQL to enable data exchange between clinical applications and internal ML services, improving API response times by several hundred milliseconds
    - Participated in deploying and maintaining a production web application on Vercel with CI/CD pipelines, contributing to high application availability and reliable performance
 
-🎲 **AI/ML Development Intern** Entertainment Technologists
+🎲 **AI/ML Development Intern** @ Entertainment Technologists
    - Automated Text and Data Extraction from Receipts: Implemented a system using OCR and AI models via the Replicate API to extract and structure receipt data from PDFs and images into a predefined JSON schema, capturing key details like store name, date, items, total cost, and payment method.
    - Database Integration and Real-Time Updates: Integrated MongoDB to store structured data, enabling efficient retrieval and updates. Supported interactive user edits for extracted fields through a UI, ensuring data accuracy and consistency.
    - Error Handling and Versatile File Support: Designed robust error-handling mechanisms for unsupported file types, missing inputs, and API token errors. Supported various file formats, including PDFs, PNGs, and JPGs, to enhance user flexibility.
