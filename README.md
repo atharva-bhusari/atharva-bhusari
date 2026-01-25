@@ -1,5 +1,5 @@
 <!-- Title -->
-# 📊 Data Scientist | Machine Learning Enthusiast
+# 📊 Data Scientist | Machine Learning Enthusiast | ERP | SQL | Python | ETL
 
 <!-- Contact Information -->
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhusari/) | ✉️ Email: [atharva.bhusari@rutgers.edu](mailto:athrvabhusari99@gmail.com)
@@ -8,6 +8,20 @@
 🎓 Master of Science in Data Science | Rutgers University 
 
 <!-- Work Experience -->
+📊 **Trainee Business Analyst** @ R S Infocn. Inc.
+   - Designed, developed, and enhanced JD Edwards (JDE) applications and reports by translating business and functional requirements into scalable ERP technical solutions
+   - Worked closely with cross-functional business teams across Order-to-Cash (O2C), and Freight Optimization to align JD Edwards functionality with operational workflows
+   - Built Orchestrations using the JDE Orchestrator tool to load and extract transactional data, helping reduce data handoff time to downstream systems by ~30%
+   - Migrated legacy IBM Showcase reports to ReportsNow, improving report performance, reducing maintenance effort by ~35%
+   - Partnered with functional analysts and business users to perform unit testing, system integration testing (SIT), and user acceptance testing (UAT), resulting in smoother releases and fewer post–go-live issues
+   - Supported JD Edwards system integrations and data validation activities, contributing to more reliable reporting and visibility
+
+🩺 **AI/Backend Engineer** Curanostics
+   - Built and refined ETL pipelines to extract and transform unstructured EPIC EHR data into structured JSON formats, supporting downstream analytics and model development with high data accuracy
+   - Assisted in implementing HIPAA-compliant data processing workflows, ensuring secure handling of PHI and adherence to healthcare regulatory standards
+   - Developed and optimized RESTful APIs using FastAPI and PostgreSQL to enable data exchange between clinical applications and internal ML services, improving API response times by several hundred milliseconds
+   - Participated in deploying and maintaining a production web application on Vercel with CI/CD pipelines, contributing to high application availability and reliable performance 
+
 🌟 **Data Science Research Assistant** @ Rutgers Institute for Health (New Brunswick, NJ)
    - Collaborated with a research team to create a Machine Learning pipeline for the classification of over 1000 bio-markers
    - Achieved a 90% improvement in pipeline efficiency through parameter fine-tuning for algorithms such as KNN, SVM, and Random Forest
