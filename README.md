@@ -8,7 +8,7 @@
 🎓 Master of Science in Data Science | Rutgers University 
 
 <!-- Work Experience -->
-📊 **Trainee Business Analyst** @ R S Infocn. Inc.
+📊 **Trainee Business Analyst** @ R S Infocon. Inc.
    - Designed, developed, and enhanced JD Edwards (JDE) applications and reports by translating business and functional requirements into scalable ERP technical solutions
    - Worked closely with cross-functional business teams across Order-to-Cash (O2C), and Freight Optimization to align JD Edwards functionality with operational workflows
    - Built Orchestrations using the JDE Orchestrator tool to load and extract transactional data, helping reduce data handoff time to downstream systems by ~30%
