@@ -1,8 +1,8 @@
 <!-- Title -->
-# 📊 Data Scientist | Machine Learning Enthusiast | ERP | SQL | Python | ETL
+## 📊 Data Scientist | Machine Learning Enthusiast | ERP | SQL | Python | ETL
 
 <!-- Contact Information -->
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhusari/) | ✉️ Email: [atharva.bhusari@rutgers.edu](mailto:athrvabhusari99@gmail.com)
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhusari/) | ✉️ Email: [atharvabhusari99@gmail.com](mailto:athrvabhusari99@gmail.com)
 
 <!-- Education -->
 🎓 Master of Science in Data Science | Rutgers University 
