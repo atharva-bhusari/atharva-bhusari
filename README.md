@@ -2,7 +2,7 @@
 ## 📊 Data Scientist | Machine Learning | ERP | ETL | Data Analytics | Artificial Intelligence | Agentic AI
 
 <!--About Me-->
-I'm a data analyst and engineer with ~3.5 years of experience building and supporting data and ERP systems across healthcare, pharmaceutical, and supply-chain work. Most of my day-to-day lives at the seam between business requirements and working systems — turning what stakeholders actually need into ETL pipelines, ERP reports, and integrations that hold up in production.
+I'm a data analyst and engineer with 3.5 years of experience building and supporting data and ERP systems across healthcare, pharmaceutical, and supply chain work. Most of my day-to-day lives at the seam between business requirements and working systems turning what stakeholders actually need into ETL pipelines, ERP reports, and integrations that hold up in production.
  
 I'm based in the Milwaukee area. I'm most interested in roles across data engineering, data and business analytics, and AI engineering. Always happy to talk shop with people building similar things.
 
